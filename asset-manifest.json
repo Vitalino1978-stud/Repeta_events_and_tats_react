@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/repeta_events_and_tats_react/static/js/main.abcd79d8.chunk.js",
+    "main.js.map": "/repeta_events_and_tats_react/static/js/main.abcd79d8.chunk.js.map",
+    "runtime-main.js": "/repeta_events_and_tats_react/static/js/runtime-main.8677bcff.js",
+    "runtime-main.js.map": "/repeta_events_and_tats_react/static/js/runtime-main.8677bcff.js.map",
+    "static/js/2.4106e0dd.chunk.js": "/repeta_events_and_tats_react/static/js/2.4106e0dd.chunk.js",
+    "static/js/2.4106e0dd.chunk.js.map": "/repeta_events_and_tats_react/static/js/2.4106e0dd.chunk.js.map",
+    "index.html": "/repeta_events_and_tats_react/index.html",
+    "static/js/2.4106e0dd.chunk.js.LICENSE.txt": "/repeta_events_and_tats_react/static/js/2.4106e0dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8677bcff.js",
+    "static/js/2.4106e0dd.chunk.js",
+    "static/js/main.abcd79d8.chunk.js"
+  ]
+}
